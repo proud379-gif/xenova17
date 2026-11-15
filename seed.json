@@ -1,0 +1,449 @@
+{
+  "members": [
+    {
+      "id": "mem_xenova",
+      "name": "XENOVA",
+      "position": "CORE SYSTEM & PLATFORM OWNER",
+      "bio": "ศูนย์กลางการควบคุมระบบและวงโคจรของ XENOVA แพลตฟอร์มจัดการทีม ตารางงาน และการประชุมครบวงจร ขับเคลื่อนด้วยสถาปัตยกรรมระดับสูง",
+      "responsibilities": [
+        "Platform Architecture & Governance",
+        "Core System Optimization",
+        "Infrastructure & Security Defense",
+        "Team Coordination & Ops"
+      ],
+      "skills": [
+        "System Architecture",
+        "SQLite WAL Engine",
+        "Cyber Security",
+        "UI/UX System",
+        "Full-Stack"
+      ],
+      "email": "xenova.gmali.com@gmail.com",
+      "phone": "+66 80 000 0000",
+      "photo": "/uploads/83ad7a79dd29a8215260fd2368e92527.jpg",
+      "color": "#1A73E8",
+      "createdAt": "2026-11-15T12:16:51.829Z"
+    },
+    {
+      "id": "mem_aumim",
+      "name": "AUMIM",
+      "position": "KEEPS ORBIT STABLE",
+      "bio": "เสาหลักในการควบคุมวงโคจรของโปรเจกต์ ดูแลความเสถียรและความเรียบร้อยของทีม XENOVA",
+      "responsibilities": [
+        "Orbit Stability",
+        "Core Operations",
+        "Team Harmony",
+        "System Review"
+      ],
+      "skills": [
+        "Leadership",
+        "Operations",
+        "Quality Control",
+        "Project Planning"
+      ],
+      "email": "aumim@xenova.dev",
+      "phone": "+66 81 111 2222",
+      "photo": "/uploads/0320c487a8a3ef7848f38426b04c93df.webp",
+      "facebook": "https://facebook.com",
+      "instagram": "https://instagram.com",
+      "color": "#3B82F6",
+      "createdAt": "2026-11-14T05:16:25.334Z"
+    },
+    {
+      "id": "mem_taetae",
+      "name": "TAETAE",
+      "position": "BUILDS IN SILENCE",
+      "bio": "นักสร้างสรรค์และนักพัฒนาผู้ลงมือทำอย่างเงียบเชียบ เบื้องหลังระบบประสิทธิภาพสูงของ XENOVA",
+      "responsibilities": [
+        "Architecture Building",
+        "Core Engineering",
+        "Silent Crafting"
+      ],
+      "skills": [
+        "System Design",
+        "Backend Development",
+        "Clean Code",
+        "Performance Tuning"
+      ],
+      "email": "taetae@xenova.dev",
+      "phone": "+66 82 222 3333",
+      "photo": "/uploads/7acff0270cb8687fc6277f858c145e24.jpg",
+      "facebook": "https://facebook.com",
+      "instagram": "https://instagram.com",
+      "color": "#10B981",
+      "createdAt": "2026-11-14T05:16:25.334Z"
+    },
+    {
+      "id": "mem_proud",
+      "name": "PROUD",
+      "position": "SEES WHAT OTHERS MISS",
+      "bio": "ผู้สังเกตการณ์ที่มองเห็นในจุดที่คนอื่นมองข้าม ละเอียดถี่ถ้วนในงานวิชวลและประสบการณ์ผู้ใช้",
+      "responsibilities": [
+        "Visual Quality Assurance",
+        "UI/UX Oversight",
+        "User Journey Testing"
+      ],
+      "skills": [
+        "UX Observation",
+        "Attention to Detail",
+        "Design Review",
+        "Interaction Design"
+      ],
+      "email": "proud@xenova.dev",
+      "phone": "+66 83 333 4444",
+      "photo": "mem_proud.jpg",
+      "facebook": "https://facebook.com",
+      "instagram": "https://instagram.com",
+      "color": "#EC4899",
+      "createdAt": "2026-11-14T05:16:25.334Z"
+    },
+    {
+      "id": "mem_notebook",
+      "name": "NOTEBOOK",
+      "position": "NEWEST TRANSMISSION",
+      "bio": "สัญญาณคลื่นลูกใหม่แห่ง XENOVA รังสรรค์ไอเดียสดใหม่ งานกราฟิก และมิติใหม่ของผลิตภัณฑ์",
+      "responsibilities": [
+        "New Transmissions",
+        "Creative Ideas",
+        "Graphic System",
+        "Visual Identity"
+      ],
+      "skills": [
+        "Pixel Art",
+        "Brand Identity",
+        "Typography",
+        "Creative Exploration"
+      ],
+      "email": "notebook@xenova.dev",
+      "phone": "+66 84 444 5555",
+      "photo": "mem_notebook.jpg",
+      "facebook": "https://facebook.com",
+      "instagram": "https://instagram.com",
+      "color": "#EF4444",
+      "createdAt": "2026-11-14T05:16:25.334Z"
+    }
+  ],
+  "meetings": [
+    {
+      "id": "dc03cf30-adc2-4cb9-b726-b5a1b3e1e483",
+      "title": "Weekly Team Standup",
+      "date": "2026-11-15",
+      "time": "09:00",
+      "duration": 30,
+      "location": "Google Meet",
+      "description": "Weekly sync to discuss progress, blockers, and priorities.",
+      "attendeeIds": [
+        "mem_aumim",
+        "mem_taetae",
+        "mem_proud",
+        "mem_notebook"
+      ],
+      "createdAt": "2026-11-12T05:16:25.334Z",
+      "attendees": [
+        "mem_aumim",
+        "mem_taetae",
+        "mem_proud",
+        "mem_notebook"
+      ]
+    },
+    {
+      "id": "5e64139f-ef7f-4fa0-b4e9-474534147897",
+      "title": "Sprint Planning Q4",
+      "date": "2026-11-19",
+      "time": "14:00",
+      "duration": 120,
+      "location": "Conference Room B",
+      "description": "Plan sprint goals and task breakdown for Q4 deliverables.",
+      "attendeeIds": [
+        "mem_aumim",
+        "mem_taetae",
+        "mem_proud"
+      ],
+      "createdAt": "2026-11-13T05:16:25.334Z",
+      "attendees": [
+        "mem_taetae",
+        "mem_proud"
+      ]
+    },
+    {
+      "id": "cf821b9d-6283-4eb5-9e99-a18594f7cd2f",
+      "title": "Design Review Session",
+      "date": "2026-11-13",
+      "time": "11:00",
+      "duration": 60,
+      "location": "Zoom",
+      "description": "Review and feedback on new dashboard designs.",
+      "attendeeIds": [
+        "mem_aumim",
+        "mem_taetae"
+      ],
+      "createdAt": "2026-11-11T05:16:25.334Z",
+      "attendees": [
+        "mem_aumim",
+        "mem_notebook"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj_xenova_core",
+      "memberId": "mem_xenova",
+      "title": "XENOVA Core Engine & System Hub",
+      "category": "Platform & Architecture",
+      "status": "completed",
+      "dateRange": "2026 - Present",
+      "role": "System Architect & Lead",
+      "team": [
+        "XENOVA",
+        "AUMIM",
+        "TAETAE",
+        "PROUD",
+        "NOTEBOOK"
+      ],
+      "cover": "/uploads/83ad7a79dd29a8215260fd2368e92527.jpg",
+      "desc": "พัฒนาระบบสถาปัตยกรรมหลัก XENOVA Full-Stack แพลตฟอร์ม จัดเก็บข้อมูล Persistent SQLite พร้อมระบบประชุมและตารางงานสไตล์ Cyberpunk",
+      "tools": [
+        "Node.js",
+        "SQLite WAL",
+        "HTML5/CSS3",
+        "REST API",
+        "Security Engine"
+      ],
+      "links": {
+        "demo": "http://localhost:8765",
+        "github": "https://github.com/proud379-gif/xenova"
+      },
+      "createdAt": "2026-11-15T12:16:51.831Z"
+    },
+    {
+      "id": "0e69cacc-8777-43eb-b435-93072f8d5c71",
+      "memberId": "mem_aumim",
+      "title": "Orbit Stabilization & Core Operations",
+      "cover": "/uploads/0320c487a8a3ef7848f38426b04c93df.webp",
+      "desc": "ควบคุมระบบและวงโคจรการดำเนินงานทั้งหมดของ XENOVA มั่นใจในความเสถียรและความพร้อมใช้งาน 99.99%",
+      "role": "Orbit Lead",
+      "team": [
+        "AUMIM",
+        "TAETAE"
+      ],
+      "startDate": "2026-01-10",
+      "endDate": "2026-05-20",
+      "status": "completed",
+      "tools": [
+        "Operations",
+        "Quality Control",
+        "Project Planning",
+        "Monitoring"
+      ],
+      "links": {
+        "demo": "https://example.com/orbit",
+        "github": "",
+        "drive": ""
+      },
+      "createdAt": "2026-11-14T05:16:25.334Z"
+    },
+    {
+      "id": "0e94381f-24e0-48b9-89dc-b463d92efbe7",
+      "memberId": "mem_taetae",
+      "title": "Silent Core Architecture & High-Performance Engines",
+      "cover": "/uploads/7acff0270cb8687fc6277f858c145e24.jpg",
+      "desc": "พัฒนาระบบแบ็คเอนด์และโครงสร้างระบบที่ทำงานได้อย่างเงียบเชียบและรวดเร็ว รองรับงานประมวลผลขนาดใหญ่",
+      "role": "Core Architect",
+      "team": [
+        "TAETAE",
+        "PROUD"
+      ],
+      "startDate": "2026-02-01",
+      "endDate": "",
+      "status": "in_progress",
+      "tools": [
+        "System Design",
+        "Backend Development",
+        "Clean Code",
+        "Performance Tuning"
+      ],
+      "links": {
+        "demo": "http://localhost:8765",
+        "github": "https://github.com/xenova",
+        "drive": ""
+      },
+      "createdAt": "2026-11-14T05:16:25.334Z"
+    },
+    {
+      "id": "553f8b6c-6873-4fa8-9b47-28f1a8dc9594",
+      "memberId": "mem_proud",
+      "title": "Deep Observation & Micro-Interaction Testing",
+      "cover": "mem_proud.jpg",
+      "desc": "ตรวจสอบและเก็บรายละเอียดทุกจุดสัมผัสของผลิตภัณฑ์ที่ผู้อื่นมองข้าม เพื่อมอบประสบการณ์ที่สมบูรณ์แบบที่สุด",
+      "role": "UX Observation Lead",
+      "team": [
+        "PROUD",
+        "NOTEBOOK"
+      ],
+      "startDate": "2026-04-15",
+      "endDate": "2026-09-30",
+      "status": "completed",
+      "tools": [
+        "UX Observation",
+        "Attention to Detail",
+        "Design Review",
+        "Interaction Design"
+      ],
+      "links": {
+        "demo": "",
+        "github": "",
+        "drive": ""
+      },
+      "createdAt": "2026-11-14T05:16:25.334Z"
+    },
+    {
+      "id": "1830e142-9cfd-48ed-9a76-7ee660a2d4d2",
+      "memberId": "mem_notebook",
+      "title": "Newest Transmission & Visual Pixel Universe",
+      "cover": "mem_notebook.jpg",
+      "desc": "ออกแบบสัญญาณวิชวลคลื่นใหม่ สไตล์ Cyberpunk และ Pixel Identity สำหรับแบรนด์ XENOVA",
+      "role": "Visual Concept Artist",
+      "team": [
+        "NOTEBOOK",
+        "AUMIM",
+        "TAETAE",
+        "PROUD"
+      ],
+      "startDate": "2026-03-01",
+      "endDate": "",
+      "status": "in_progress",
+      "tools": [
+        "Pixel Art",
+        "Brand Identity",
+        "Typography",
+        "Creative Exploration"
+      ],
+      "links": {
+        "demo": "",
+        "github": "",
+        "drive": "https://drive.google.com/sample"
+      },
+      "createdAt": "2026-11-14T05:16:25.334Z"
+    }
+  ],
+  "timetable": [
+    {
+      "id": "tt_mon_design",
+      "title": "ออกแบบ UI & Components",
+      "dayOfWeek": 1,
+      "startTime": "09:00",
+      "endTime": "11:00",
+      "category": "general",
+      "project": "XENOVA Platform",
+      "assigneeName": "AUMIM",
+      "collaborators": "PROUD",
+      "repeatWeekly": true,
+      "notes": "ออกแบบหน้าเว็บและ UI Components"
+    },
+    {
+      "id": "tt_tue_meeting",
+      "title": "ประชุมทีมประจำสัปดาห์",
+      "dayOfWeek": 2,
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "category": "meeting",
+      "project": "Team Standup",
+      "assigneeName": "AUMIM",
+      "collaborators": "TAETAE, PROUD, NOTEBOOK",
+      "repeatWeekly": true,
+      "notes": "ติดตามความคืบหน้าและวางแผนงานประจำสัปดาห์"
+    },
+    {
+      "id": "tt_wed_project",
+      "title": "พัฒนา Core Features & Backend",
+      "dayOfWeek": 3,
+      "startTime": "09:00",
+      "endTime": "12:00",
+      "category": "completed",
+      "project": "Core Features",
+      "assigneeName": "TAETAE",
+      "collaborators": "NOTEBOOK",
+      "repeatWeekly": true,
+      "notes": "พัฒนาระบบ Backend SQLite และ API"
+    },
+    {
+      "id": "tt_thu_review",
+      "title": "Code Review & QA Testing",
+      "dayOfWeek": 4,
+      "startTime": "13:00",
+      "endTime": "15:00",
+      "category": "urgent",
+      "project": "QA & Review",
+      "assigneeName": "PROUD",
+      "collaborators": "AUMIM, TAETAE",
+      "repeatWeekly": true,
+      "notes": "ทดสอบความปลอดภัยและการทำงานของระบบ"
+    },
+    {
+      "id": "tt_fri_present",
+      "title": "Deploy & สรุปผลงาน",
+      "dayOfWeek": 5,
+      "startTime": "10:00",
+      "endTime": "11:30",
+      "category": "general",
+      "project": "Release Sprint",
+      "assigneeName": "NOTEBOOK",
+      "collaborators": "AUMIM",
+      "repeatWeekly": true,
+      "notes": "นำเสนอผลงานและตรวจสอบการ Deploy"
+    }
+  ],
+  "exportedOn": "2026-11-14",
+  "links": [
+    {
+      "id": "link_xenova_repo",
+      "title": "XENOVA GitHub Repository",
+      "url": "https://github.com/proud379-gif/xenova",
+      "category": "project",
+      "description": "คลังจัดเก็บซอร์สโค้ดหลักของโปรเจกต์ XENOVA Platform ระบบจัดการทีมและฐานข้อมูล SQLite",
+      "isPinned": true,
+      "isFavorite": true,
+      "createdAt": "2026-11-15T10:00:00.000Z"
+    },
+    {
+      "id": "link_scholar",
+      "title": "Google Scholar — ค้นคว้างานวิจัยและวิชาการ",
+      "url": "https://scholar.google.com",
+      "category": "study",
+      "description": "ค้นหาบทความวิชาการ เอกสารอ้างอิง และงานวิจัยสำหรับงานเรียนและโครงงาน",
+      "isPinned": false,
+      "isFavorite": true,
+      "createdAt": "2026-11-15T11:00:00.000Z"
+    },
+    {
+      "id": "link_figma",
+      "title": "Figma — เครื่องมือออกแบบ UI/UX",
+      "url": "https://www.figma.com",
+      "category": "tools",
+      "description": "ออกแบบ Wireframe, UI Components, และ Mockup ประจำทีม XENOVA",
+      "isPinned": false,
+      "isFavorite": true,
+      "createdAt": "2026-11-15T12:00:00.000Z"
+    },
+    {
+      "id": "link_mdn",
+      "title": "MDN Web Docs — คู่มือพัฒนาเว็บมาตรฐานสากล",
+      "url": "https://developer.mozilla.org",
+      "category": "tools",
+      "description": "แหล่งอ้างอิง HTML, CSS, JavaScript, และ Web APIs ที่สมบูรณ์ที่สุด",
+      "isPinned": false,
+      "isFavorite": false,
+      "createdAt": "2026-11-15T13:00:00.000Z"
+    },
+    {
+      "id": "link_portfolio",
+      "title": "XENOVA Official Live Web",
+      "url": "http://localhost:8765",
+      "category": "personal",
+      "description": "หน้าเว็บหลักของระบบ XENOVA พร้อมระบบจัดการสมาชิก ตารางเรียน และห้องเก็บลิงก์",
+      "isPinned": true,
+      "isFavorite": false,
+      "createdAt": "2026-11-15T14:00:00.000Z"
+    }
+  ]
+}

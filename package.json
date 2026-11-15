@@ -1,0 +1,16 @@
+{
+  "name": "xenova",
+  "version": "2.0.0",
+  "description": "XENOVA — group management & meeting platform",
+  "main": "server.js",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/api.test.js",
+    "users": "node manage.js list-users"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.0.0"
+  }
+}

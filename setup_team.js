@@ -1,0 +1,65 @@
+const fs = require('fs');
+const path = require('path');
+
+const appJsPath = path.join(__dirname, 'app.js');
+let code = fs.readFileSync(appJsPath, 'utf8');
+
+// Force reset members in localStorage on next load if needed, or update loadSampleData
+const officialMembers = [
+  {
+    id: 'mem_nattana',
+    name: 'Nattana Note',
+    position: 'Creative Director & Founder',
+    bio: 'ผู้นำและนักสร้างสรรค์ประจำทีม XENOVA วางทิศทางวิชวลและคอนเซ็ปต์การออกแบบทั้งหมด',
+    responsibilities: ['Creative Direction', 'Brand Identity', 'Visual Design', 'Team Oversight'],
+    skills: ['Figma', 'Typography', 'Visual Identity', 'Concept Art'],
+    email: 'nattana@xenova.dev',
+    phone: '+66 81 111 2222',
+    photo: 'member1.jpg',
+    color: '#EC4899',
+    createdAt: new Date().toISOString()
+  },
+  {
+    id: 'mem_ploy',
+    name: 'Ploypailin (Ploy)',
+    position: 'UI/UX & Frontend Lead',
+    bio: 'นักออกแบบประสบการณ์ผู้ใช้และพัฒนาเว็บ ใส่ใจในทุกรายละเอียดของส่วนประสานงาน',
+    responsibilities: ['UI/UX Design', 'Design Tokens', 'Frontend Architecture'],
+    skills: ['UI/UX', 'CSS3', 'React', 'Prototyping', 'Design Systems'],
+    email: 'ploy@xenova.dev',
+    phone: '+66 82 222 3333',
+    photo: 'member2.jpg',
+    color: '#8B5CF6',
+    createdAt: new Date().toISOString()
+  },
+  {
+    id: 'mem_earth',
+    name: 'Thanaphat (Earth)',
+    position: 'Lead Software Architect',
+    bio: 'สถาปนิกซอฟต์แวร์ ผู้เชี่ยวชาญการออกแบบสถาปัตยกรรมระบบ ฐานข้อมูล และความปลอดภัยขั้นสูง',
+    responsibilities: ['System Architecture', 'Backend Services', 'Data Security'],
+    skills: ['Node.js', 'PostgreSQL', 'Docker', 'Authentication', 'Security'],
+    email: 'earth@xenova.dev',
+    phone: '+66 83 333 4444',
+    photo: 'member3.webp',
+    color: '#1A73E8',
+    createdAt: new Date().toISOString()
+  },
+  {
+    id: 'mem_boss',
+    name: 'Krit (Boss)',
+    position: 'Product & Operations Lead',
+    bio: 'ผู้วางแผนผลิตภัณฑ์ จัดการตารางงาน เชื่อมโยงทีมงาน และควบคุมคุณภาพการส่งมอบงาน',
+    responsibilities: ['Product Management', 'Weekly Timetable', 'Operations & Delivery'],
+    skills: ['Agile', 'Scrum', 'Operations', 'Team Management'],
+    email: 'krit@xenova.dev',
+    phone: '+66 84 444 5555',
+    photo: 'member4.jpg',
+    color: '#059669',
+    createdAt: new Date().toISOString()
+  }
+];
+
+// Write this logic into a patch script
+fs.writeFileSync(path.join(__dirname, 'official_members.json'), JSON.stringify(officialMembers, null, 2));
+console.log('Saved official_members.json successfully');
